@@ -1,0 +1,22 @@
+.card {
+  flex-direction: column;
+  border: 1px solid #020202;
+  background-color: antiquewhite;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+}
+#productList{
+display: flex;
+}
+h2{
+  background-color: rgb(229, 196, 153);
+  border-radius: 8px;
+}
+
+button{
+background-color: rgba(146, 0, 0, 0.303);
+border-radius: 6px;
+}
